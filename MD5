@@ -1,0 +1,13 @@
+433e1aaabad59bb57a0dd780ca304425 *DESCRIPTION
+6bb784b9b54bfb037121167bd1c2e7d2 *NAMESPACE
+ea598586b09ae6bccebfbd55674c12f1 *R/A_generics.R
+5987b00dd2e597dddedf2a5d3371bd4e *R/M_combinaisons.R
+b777d0d335e88b7bd6ef8e8767f078ba *R/M_permutations.R
+814b7461387aad17c420ba0c0fc63cd3 *R/zzz.R
+45cc5ce5f656ff4ad7d6b27e49d8ee4d *README
+62539521f08fcfea6023f15819dffc1d *man/cenum-class.Rd
+05de5002b577c6606aa14f57b77bfce4 *man/others.Rd
+9239ca10aa9af138ef45d9780fb84250 *man/pcenum.Rd
+0bd2d5c9c7a30a6ce37d9eedbb800b47 *man/penum-class.Rd
+c0ca375ae72d040a42c33f494630baa2 *src/combinaisons.c
+520d618fe6b242245e8d4fbc55a31ec7 *src/permutations.c

@@ -1,0 +1,18 @@
+Author of R code: Benjamin Auder
+
+C code (core algorithms) from a course chapter of Pierre Audibert:
+  http://www.ai.univ-paris8.fr/~audibert/ens/07-ENUMERATIONx.pdf
+
+-------------------------------------------
+
+Get and print the 13th permutation of 1...5 :
+  p = pinit(5)
+  gonext(p, 12)
+  show(p)
+
+-------------------------------------------
+
+Get and print the 7th combination of 1...5, p=2 :
+  c = cinit(5, 2)
+  gonext(c, 7)
+  show(c)
