@@ -1,10 +1,7 @@
-# Default NAMESPACE created by R
-# Remove the previous line if you edit this file
-
-# Export all names
-exportPattern(".")
+# Export all R functions
+export (pinit,cinit,toarr,gonext,initialize,show)
 
 # Import all packages listed as Imports or Depends
-import(
-  methods
-)
+import (methods)
+
+useDynLib(pcenum, goNextPermut, goNextCombi)
